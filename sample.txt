@@ -1,18 +1,6 @@
 hello git
 hi
 
-
+function
 //some random task need to add
-
-
-??second case
-
-
-git practice
-=======
-//some random task need to add
-
-jdjdjksksk
-
-STASH KDKK
 
